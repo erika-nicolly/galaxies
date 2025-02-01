@@ -1,9 +1,6 @@
-# Galáxia
+# Galaxies
 
 ![Captura de Tela do Projeto](./.github/preview.png)
-
-
-Breve descrição sobre o que o projeto faz e sua finalidade.
 
 ## 🚀 Tecnologias
 
